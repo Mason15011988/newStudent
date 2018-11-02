@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student id="2">
+        <name>Миронова</name>
+        <age>22</age>
+        <marks>
+            <mark>5</mark>
+            <mark>5</mark>
+            <mark>5</mark>
+            <mark>5</mark>
+            <mark>3</mark>
+        </marks>
+    </student>
+    <student id="1">
+        <name>Миронов</name>
+        <age>23</age>
+        <marks>
+            <mark>4</mark>
+            <mark>4</mark>
+            <mark>4</mark>
+            <mark>5</mark>
+            <mark>5</mark>
+        </marks>
+    </student>
+    <student id="3">
+        <name>Лутов</name>
+        <age>24</age>
+        <marks>
+            <mark>5</mark>
+            <mark>5</mark>
+            <mark>4</mark>
+            <mark>3</mark>
+            <mark>5</mark>
+            <mark>5</mark>
+        </marks>
+    </student>
+    <student id="5">
+        <name>Миронов</name>
+        <age>18</age>
+        <marks>
+            <mark>5</mark>
+            <mark>5</mark>
+            <mark>5</mark>
+            <mark>4</mark>
+        </marks>
+    </student>
+    <student id="8">
+        <name>Миронова</name>
+        <age>18</age>
+        <marks>
+            <mark>4</mark>
+            <mark>3</mark>
+            <mark>5</mark>
+            <mark>5</mark>
+            <mark>5</mark>
+        </marks>
+    </student>
+</students>
